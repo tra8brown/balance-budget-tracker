@@ -1,5 +1,5 @@
 # balance-budget-tracker
-* an online/offline web application you can use to track your
+* an online/offline web application you can use to track your 
 
 Live URL: tbd
 Github URL: https://github.com/tra8brown/balance-budget-tracker
